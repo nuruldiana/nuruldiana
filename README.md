@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Diana 👋  
 
-<!--
-**nuruldiana/nuruldiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Economics graduate  
+📊 Interested in Statistics & Data Analysis  
+🐍 Currently learning Python  
+📈 Building my first machine learning projects  
+---
+💼 About Me
+I am a highly motivated beginner in data analytics with a background in economics.
+I enjoy working with data, identifying patterns, and solving real-world problems using statistical and analytical approaches.
+I am currently seeking opportunities in statistics, data analysis, or entry-level data-related roles where I can grow and contribute.
+----
+🛠️ Skills
+Python (Basic - Pandas, NumPy, Scikit-learn)
+Data Analysis (Exploration, Cleaning, Visualization)
+Microsoft Excel (Pivot Table, Data Handling)
+Statistics (Basic concepts, regression)
+-----
+📚 Currently Learning
+Machine Learning (Regression Models)
+Data Visualization (Matplotlib, Seaborn)
+Real-world data analysis projects
+-----
+📂 Projects
+📌 Salary Prediction using Linear Regression
+Built a simple machine learning model to predict salary based on experience
+Tools: Python, Scikit-learn
+Learned: Model training, prediction, and evaluation
+----
+🎯 Career Goal
+To become a data analyst or statistician who can provide valuable insights and support data-driven decision making.
+-----
+📫 Contact
+Email: diana90.nr@gmail.com
