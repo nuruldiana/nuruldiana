@@ -8,24 +8,22 @@ Hi, I'm Diana 👋
 💼 About Me  
 
 I am a highly motivated beginner in data science with a background in economics.  
-I enjoy working with data, identifying patterns, and solving real-world problems using statistical and analytical approaches.  
-
-I am currently building my skills in data science, including Python and machine learning, and seeking opportunities in statistics, data analysis, or entry-level data-related roles where I can grow and contribute.  
+I enjoy working with data, identifying patterns, and solving real-world problems using statistical approaches.  
+Currently, I am developing my skills in Python, data analysis, and machine learning, and I am seeking opportunities in statistics or entry-level data-related roles where I can grow and contribute.  
 ----
-🛠️ Skills
+🛠️ Skills  
 
-
-Python (Basic - Pandas, NumPy, Scikit-learn)
-Data Science (Exploration ,Data Cleaning, Visualization)
-Microsoft Excel (Pivot Table, Data Handling)
-Statistics (Basic concepts, regression)
+- **Python** (Basic: Pandas, NumPy, Scikit-learn)  
+- **Data Science** (Exploration, Data Cleaning, Visualization)  
+- **Microsoft Excel** (Pivot Table, Data Handling)  
+- **Statistics** (Basic concepts, regression)
 -----
 📚 Currently Learning
 
 
-Machine Learning (Regression Models)
-Data Visualization (Matplotlib, Seaborn)
-Real-world data analysis projects
+- **Machine Learning** (Regression Models)
+- **Data Visualization** (Matplotlib, Seaborn)
+- **Real-world data analysis projects**
 -----
 📂 Projects
 
