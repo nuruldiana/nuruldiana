@@ -20,7 +20,7 @@ Currently, I am developing my skills in Python, data analysis, and machine learn
 - **Python** (Basic: Pandas, NumPy, Scikit-learn)  
 - **Data Science** (Exploration, Data Cleaning, Visualization)  
 - **Microsoft Excel** (Pivot Table, Data Handling)  
-- **Statistics** (Basic concepts, regression)
+- **Statistics** (Basic Concepts, Regression)
 
   
 -----
